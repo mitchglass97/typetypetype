@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>typetypetype</title>
+    <link rel="stylesheet" type="text/css" href="./style.css">    
+    <link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id='title'>
+        <h1>type<span class='dark'>type</span>type</h1>
+    </div>
+
+    <div id='tagline'>
+        <h3>What's  <span class='light'>your</span>  speed<span class='dark'>?</span></h3>
+    </div>
+
+    <div id='stats-container'>
+        <div id='stats'>
+            <ul id='stats-list'>
+                <li class ='blur'>WPM: <span id='wpm'>0</span></li>
+                <li class ='blur'>Accuracy: <span id='accuracy'>0.00</span>%</li>
+                <li class ='blur'>Mistakes: <span id='mistakes'>0</span></li>
+                <li><button onclick="beginTest()"><span id='timer'>Begin Test</span></button></li>
+            </ul>
+        </div>
+    </div>
+
+    <div id='sentence' class='dark fancy'>
+        <p id='sentence-text'>Test sentence here.</p>
+    </div>
+    
+</body>
+<script src="./js/jquery.js"></script>
+<script src="./js/main.js"></script>
+<script src="./js/lettering.js"></script>
+</html>
