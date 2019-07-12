@@ -4,7 +4,7 @@
 
 Link: https://mitchglass97.github.io/typetypetype/
 
-![Screen Shot 2019-07-12 at 4 47 19 AM](https://user-images.githubusercontent.com/52224377/61119349-3d134700-a460-11e9-984b-496c0a3b9d96.png)
+![Screen Shot 2019-07-12 at 4 48 49 AM](https://user-images.githubusercontent.com/52224377/61119411-5d430600-a460-11e9-97de-1c206a98b9bd.png)
 
 # to-do
 
