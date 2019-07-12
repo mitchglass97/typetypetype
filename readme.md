@@ -1,6 +1,6 @@
 # typetypetype
 
-*typetypetype* is a simple typing speed test web app with a more attractive look than the average one you'll find on the internet. It keeps running stats of WPM, Accuracy, and Mistakes. 
+*typetypetype* is a simple typing speed test web app with a more attractive look than the average one you'll find on the internet. It keeps running stats of WPM, Accuracy, and Mistakes. Each time a correct letter is typed, that letter turns white and fades away. If an incorrect character is typed, the  character on-screen is highlighted red. There are also fun sound effects that I stole from iPhone.
 
 Link: https://mitchglass97.github.io/typetypetype/
 
@@ -8,5 +8,7 @@ Link: https://mitchglass97.github.io/typetypetype/
 
 # to-do
 
+- [  ] add a red color on spaces when a space is the current wrong character
 - [  ] add a leaderboard that shows each users' personal best and global top 10
 - [  ] add multiple texts to pick from
+
